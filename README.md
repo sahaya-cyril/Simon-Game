@@ -7,6 +7,6 @@ If the user messes up the sequence, then the game ends.
 
 ![Simon Game](https://github.com/sahaya-cyril/Simon-Game/blob/main/simonGame.gif)
 
-*Does Simon Game improve memory?
+*Does Simon Game improve memory?*
 
 *Simon* – Children can increase their sequential processing, short-term memory, attention and visual processing with these sound and light mimicking games. Simple but not easy, Simon can strengthen auditory processing, processing speed, visual processing and attention.
