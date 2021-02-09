@@ -5,4 +5,4 @@ Next, the game shows the next colour (red), the user has to remember the sequenc
 
 If the user messes up the sequence, then the game ends.
 
-![alt text](simpnGame.gif)
+![Simon Game](https://github.com/sahaya-cyril/Simon-Game/blob/main/simonGame.gif)
